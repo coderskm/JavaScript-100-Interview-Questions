@@ -1,0 +1,1 @@
+console.log(typeof 3 + 4 + "5"); // number45 as operation starts from left to right
